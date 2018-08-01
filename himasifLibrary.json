@@ -3,145 +3,14 @@
     "title_semester": "Semester Gasal",
     "matkul": [
       {
-        "title_matkul": "Matkul 11",
+        "title_matkul": "Testing Matkul 11",
         "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
+        "deskripsi": "Algoritma Pemrograman",
+        "image": "http://blogpengertian.com/wp-content/uploads/2018/06/algoritma-pemrograman.jpg",
         "bab": [
           {
-            "title_bab": "Bab 111",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Watashi Gabut",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/gabut.md"
-          },
-          {
-            "title_bab": "Ngetes Markdown",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/markdowntester.md"
-          },
-          {
-            "title_bab": "Another Test",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/anothertest.md"
-          },
-          {
-            "title_bab": "Bab 111",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 11",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Ngetes Markdown",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/markdowntester.md"
-          },
-          {
-            "title_bab": "Bab 114",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 331",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 332",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 333",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 334",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 331",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 332",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 333",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 334",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
-      },
-      {
-        "title_matkul": "Matkul 12",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 121",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 122",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 123",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 124",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
-      },
-      {
-        "title_matkul": "Matkul 13",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 131",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 132",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 133",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 134",
-            "deskripsi_bab": "Bab tentang Jomblo",
+            "title_bab": "Variabel",
+            "deskripsi_bab": "Tentang Variabel dalam Pemrograman",
             "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
           }
         ]
@@ -178,62 +47,6 @@
             "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
           }
         ]
-      },
-      {
-        "title_matkul": "Matkul 22",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 221",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 222",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 223",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 224",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
-      },
-      {
-        "title_matkul": "Matkul 23",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 231",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 232",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 233",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 234",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
       }
     ]
   },
@@ -263,62 +76,6 @@
           },
           {
             "title_bab": "Bab 314",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
-      },
-      {
-        "title_matkul": "Matkul 32",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 321",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 322",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 323",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 324",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          }
-        ]
-      },
-      {
-        "title_matkul": "Matkul 33",
-        "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
-        "bab": [
-          {
-            "title_bab": "Bab 331",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 332",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 333",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 334",
             "deskripsi_bab": "Bab tentang Jomblo",
             "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
           }
