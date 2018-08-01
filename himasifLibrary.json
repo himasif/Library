@@ -5,13 +5,13 @@
       {
         "title_matkul": "Testing Matkul 11",
         "semester": "1",
-        "deskripsi": "Algoritma Pemrograman",
-        "image": "http://blogpengertian.com/wp-content/uploads/2018/06/algoritma-pemrograman.jpg",
+        "deskripsi": "Testing Doang",
+        "image": "https://orientation.uga.edu/portals/3/Images/testing.png",
         "bab": [
           {
-            "title_bab": "Variabel",
-            "deskripsi_bab": "Tentang Variabel dalam Pemrograman",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
+            "title_bab": "Tester",
+            "deskripsi_bab": "Testing dalam testing bab deskripsi",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Testing/testing.md"
           }
         ]
       }
@@ -21,30 +21,15 @@
     "title_semester": "Semester Genap",
     "matkul": [
       {
-        "title_matkul": "Matkul 21",
+        "title_matkul": "Testing",
         "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
+        "deskripsi": "Matkul ini adalah matkul TESTING",
+        "image": "https://opspl.com/wp-content/uploads/2017/01/automation-vs-manual-testing.gif",
         "bab": [
           {
             "title_bab": "Bab 211",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 212",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 213",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 214",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
+            "deskripsi_bab": "Bab tentang Testing",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Genap/Testing/testing_genap.md"
           }
         ]
       }
@@ -54,30 +39,15 @@
     "title_semester": "Mata Kuliah Pilihan",
     "matkul": [
       {
-        "title_matkul": "Matkul 31",
+        "title_matkul": "Matkul TESTING 3",
         "semester": "1",
-        "deskripsi": "Matkul ini adalah matkul lawak",
-        "image": "https://i1.wp.com/alidzakyalarief.com/wp-content/uploads/2018/01/dp-bbm-doraemon-3.jpg?resize=840%2C876&ssl=1",
+        "deskripsi": "Matkul ini adalah matkul TESTING 3",
+        "image": "https://i.ytimg.com/vi/3jpcijChkcE/hqdefault.jpg",
         "bab": [
           {
             "title_bab": "Bab 311",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 312",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 313",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
-          },
-          {
-            "title_bab": "Bab 314",
-            "deskripsi_bab": "Bab tentang Jomblo",
-            "url": "http://himasif.ilkom.unej.ac.id/library/test.md"
+            "deskripsi_bab": "Bab tentang TESTING 3",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Mata%20Kuliah%20Pilihan/Testing/testing_mkp.md"
           }
         ]
       }
