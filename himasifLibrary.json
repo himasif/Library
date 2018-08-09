@@ -20,13 +20,37 @@
   {
     "title_semester": "Semester Genap",
     "matkul": [
-      
+      {
+        "title_matkul": "Testing",
+        "semester": "1",
+        "deskripsi": "Matkul ini adalah matkul TESTING",
+        "image": "https://opspl.com/wp-content/uploads/2017/01/automation-vs-manual-testing.gif",
+        "bab": [
+          {
+            "title_bab": "Bab 211",
+            "deskripsi_bab": "Bab tentang Testing",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Genap/Testing/testing_genap.md"
+          }
+        ]
+      }
     ]
   },
   {
     "title_semester": "Mata Kuliah Pilihan",
     "matkul": [
-      
+      {
+        "title_matkul": "Matkul TESTING 3",
+        "semester": "1",
+        "deskripsi": "Matkul ini adalah matkul TESTING 3",
+        "image": "https://i.ytimg.com/vi/3jpcijChkcE/hqdefault.jpg",
+        "bab": [
+          {
+            "title_bab": "Bab 311",
+            "deskripsi_bab": "Bab tentang TESTING 3",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Mata%20Kuliah%20Pilihan/Testing/testing_mkp.md"
+          }
+        ]
+      }
     ]
   }
 ]
