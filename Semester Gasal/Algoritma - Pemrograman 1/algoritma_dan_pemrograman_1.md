@@ -21,49 +21,50 @@ int main(){
       printf (“Nilai b memang lebih besar dari 9”);
 }
 ```
-
+  
+  
 #### Kategori Software
 Secara umum Software dibagi menjadi 3 kategori, yaitu :
 * Sistem Operasi
 * Program Aplikasi
 * Bahasa Pemrograman
-
+  
 ###### A. Sistem Operasi
 Sistem operasi adalah subkelas software lapisan pertama (pertama kali diletakkan di memori komputer saat dinyalakan) dan bertugas mengontrol & mengelola hardware serta menyediakan operasi dasar sistem (akses ke disk, manajemen memori, skeduling task, dan antar-muka user).
 Sistem operasi juga bertindak sebagai host bagi semua aplikasi yg dijalankan pada komputer menangani detail operasi terhadap hardware.
 
-> __Contoh:__
-Microsoft: MSDOS, MS Windows 2000, MS Windows XP, Vista 
-Linux: Fedora, CentOS, Ubuntu, Slackware, Symbian
-Novell: Netware
-Android : KitKat, Marsmallow, Nouggat, Oreo
-Apple: iOS
-
+> __Contoh:__  
+Microsoft: MSDOS, MS Windows 2000, MS Windows XP, Vista  
+Linux: Fedora, CentOS, Ubuntu, Slackware, Symbian  
+Novell: Netware  
+Android : KitKat, Marsmallow, Nouggat, Oreo  
+Apple: iOS  
+  
+  
 ###### B. Program Aplikasi
 Program aplikasi adalah subkelas software yg didesain bagi end user untuk memanfaatkan kemampuan komputer secara langsung. Program aplikasi digunakan untuk melakukan tugas yang spesifik. Program aplikasi juga membutuhkan Sistem Operasi untuk dijalankan. 
 
-> __Contoh:__
-__Pengolah Kata:__ Untuk menghasilkan (termasuk membuat, meng-edit, menata tampilan, serta mencetak) berbagai materi/dokumen teks.
-![Microsoft Word](https://cdn1.tekrevue.com/wp-content/uploads/2015/02/word-search-with-bing.jpg)
->
->__Spreadsheet:__ mensimulasikan kertas lembar kerja, yang tersusun dalam format baris dan kolom untuk membentuk cel-cel yg dpt diisi dng data dan formula
-![Microsoft Excel](https://d2myx53yhj7u4b.cloudfront.net/sites/default/files/styles/full_width_desktop/public/IC-how-to-make-spreadsheet-11%20copy.jpg?itok=aDdzCSmp)
->
-> __Pengolah Gambar:__ Untuk menghasilkan (termasuk membuat, meng-edit, menata tampilan, serta kemungkinan pencetakan) berbagai materi/dokumen gambar.
-![Corel Draw](https://images-na.ssl-images-amazon.com/images/I/61PdhuOvizL._SL1024_.jpg)
+> __Contoh:__  
+__Pengolah Kata:__ Untuk menghasilkan (termasuk membuat, meng-edit, menata tampilan, serta mencetak) berbagai materi/dokumen teks.  
+![Microsoft Word](https://cdn1.tekrevue.com/wp-content/uploads/2015/02/word-search-with-bing.jpg)  
+>__Spreadsheet:__ mensimulasikan kertas lembar kerja, yang tersusun dalam format baris dan kolom untuk membentuk cel-cel yg dpt diisi dng data dan formula  
+![Microsoft Excel](https://d2myx53yhj7u4b.cloudfront.net/sites/default/files/styles/full_width_desktop/public/IC-how-to-make-spreadsheet-11%20copy.jpg?itok=aDdzCSmp)  
+> __Pengolah Gambar:__ Untuk menghasilkan (termasuk membuat, meng-edit, menata tampilan, serta kemungkinan pencetakan) berbagai materi/dokumen gambar.  
+![Corel Draw](https://images-na.ssl-images-amazon.com/images/I/61PdhuOvizL._SL1024_.jpg)  
 
 ###### C. Bahasa Pemrograman
 Bahasa Pemrograman adalah subkelas dari sotfware yang digunakan untuk menulis (membuat) software. Bahasa Pemrograman berfungsi untuk menterjemahkan seluruh kode program yang dibuat ke bahasa mesin. Bahasa Pemrograman dibagi menjadi 2, yaitu Bahasa Tingkat Tinggi dan Bahasa Tingkat Rendah.
 
-#### Untuk lebih jelasnya silahkan lihat video ini
+> __Untuk lebih jelasnya silahkan lihat video ini__  
 @[youtube](bUWCD45qniA)
-
+  
+  
 ###### Bahasa Tingkat Rendah
 * Sekumpulan perintah/instruksi yang memiliki struktur & perintah bahasa mesin/seperti bahasa mesin
 * Bukan bahasa mesin, merupakan pengkodean instruksi bahasa mesin untuk mempermudah penyusunan program
 * Didesign sesuai dengan CPU yang digunakan
 
-__Contoh :__
+__Contoh :__  
 __Bahasa Mesin__
 ```
 000000 00001 00010 00110 00000 100000
@@ -74,14 +75,16 @@ __Bahasa Assembly__
 mov     ax,4C00h
 int     21h 
 ```
-
+  
+   
 ###### Bahasa Tingkat Tinggi
 * Sekumpulan perintah/instruksi untuk menyusun program yang tidak tergantung pada CPU yang digunakan
 * Membutuhkan “penterjemah” (Compiler/Interpreter) agar dapat diproses oleh mesin
 * “English like” language
  
-__Contoh :__
-__Bahasa Java__
+__Contoh :__  
+
+__Bahasa Java__  
 ```Java
 public class Main{
     public static void main(String[] args){
