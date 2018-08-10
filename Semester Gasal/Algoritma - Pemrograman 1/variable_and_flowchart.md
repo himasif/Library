@@ -8,15 +8,15 @@ Variabel merupakan suatu tempat untuk menampung data atau konstanta di memori ya
 > ![Variable](https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/img/Variable.jpg)  
 
 ### Tipe Variabel
-|No|Nama     |Write  |Value       |  
-|--|---------|-------|------------|  
-|1 |Integer  |int    |Angka       |  
-|2 |Long     |long   |Angka       |  
-|3 |Double   |double |Pecahan     |  
-|4 |Float    |float  |Pecahan     |  
-|5 |Boolean  |boolean|true / false|  
-|6 |Character|char   |Huruf       |  
-|7 |String   |String |Teks        |  
+| No | Nama      | Write   | Value      |
+|----|-----------|---------|------------|
+| 1  | Integer   | int     | Angka      |
+| 2  | Long      | long    | Angka      |
+| 3  | Double    | double  | Pecahan    |
+| 4  | Float     | float   | Pecahan    |
+| 5  | Boolean   | boolean | true/false |
+| 6  | Character | char    | Huruf      |
+| 7  | String    | String  | Teks       |
 
 > __Untuk lebih jelasnya silahkan lihat video dibawah ini__
 > @[youtube](Txs3MHINsjI)
