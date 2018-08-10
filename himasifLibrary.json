@@ -10,8 +10,13 @@
         "bab": [
           {
             "title_bab": "Software & Bahasa Pemrograman",
-            "deskripsi_bab": "Mempelajari tentang perangkat lunak dan bahasa pemrograman",
+            "deskripsi_bab": "Mempelajari tentang algoritma dalam komputer",
             "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/software_dan_bahasa_pemrograman.md"
+          },
+          {
+            "title_bab": "Visual Programming",
+            "deskripsi_bab": "Memulai Programming dengan Scratch",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/visual_programming.md"
           }
         ]
       },
