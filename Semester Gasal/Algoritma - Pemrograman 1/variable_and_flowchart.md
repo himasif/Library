@@ -16,9 +16,10 @@ Variabel merupakan suatu tempat untuk menampung data atau konstanta di memori ya
 | 4  | Float     | float   | Pecahan    |
 | 5  | Boolean   | boolean | true/false |
 | 6  | Character | char    | Huruf      |
-| 7  | String    | String  | Teks       |
-
-> __Untuk lebih jelasnya silahkan lihat video dibawah ini__
+| 7  | String    | String  | Teks       |  
+  
+  
+> __Untuk lebih jelasnya silahkan lihat video dibawah ini__  
 > @[youtube](Txs3MHINsjI)
   
 ## B. Algoritma dan Flowchart
