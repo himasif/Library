@@ -2,20 +2,6 @@
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. If you have finished with me, you can just create new files by opening the **file explorer** on the left corner of the navigation bar.
 
-## Gambar Online I
-![Ganteng Berat NJENG](https://scontent-sea1-1.cdninstagram.com/vp/d0506b24a5f0e468ac08850e89a519ea/5B27ED26/t51.2885-15/s480x480/e35/c180.0.720.720/26330310_572101176476845_5783372991064702976_n.jpg?ig_cache_key=MTY5ODY0NzQ4Mzg5NDAzMzc0MQ%3D%3D.2.c)
-
- Ganteng Berat Anjengg
-
- ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-**test**
-## Gambar Online II
- ![Ciyeee](https://avatars3.githubusercontent.com/u/30972350?s=400&v=4)
-
- Ini juga
-
-
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
