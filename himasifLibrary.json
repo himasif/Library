@@ -19,14 +19,14 @@
             "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/visual_programming.md"
           },
           {
-            "title_bab": "Variable and Flowchart",
-            "deskripsi_bab": "Mempelajari variabel dan tipenya serta cara membuat flowchart",
-            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/variable_and_flowchart.md"
+            "title_bab": "Percabangan",
+            "deskripsi_bab": "Mempelajari Percabangan dalam Algoritma",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/percabangan.md"
           },
           {
-            "title_bab": "Percabangan",
-            "deskripsi_bab": "Percabangan dalam algoritma",
-            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/variable_and_flowchart.md"
+            "title_bab": "Perulangan",
+            "deskripsi_bab": "Mempelajari Perulangan dalam Algoritma",
+            "url": "https://raw.githubusercontent.com/himasif/Library/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/perulangan.md"
           }
         ]
       },
