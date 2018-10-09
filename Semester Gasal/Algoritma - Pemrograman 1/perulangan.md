@@ -2,7 +2,7 @@
 ### Konsep
 Perulangan merupakan perintah untuk mengulang suatu statement atau blok berulang kali. Kondisi ditetapkan sebelum melakukan perulangan agar tidak terjadi infinite loop. Statement yang sering digunakan adalah for, while do, dan do while  
 
-###Statement for 
+### Statement for 
 Paling mudah diterapkan sebagai penghitung. Statement for lebih efektif diterapkan untuk perulangan dengan jumlah perulangan sangat kecil.	 
 
 > __Struktur Statement For__  
@@ -24,7 +24,7 @@ Statement for juga memiliki bentuk lain, yaitu statement for bersarang. Contoh p
 >		}  
 
 
-###Statement while-do
+### Statement while-do
 Merupakan bentuk perulangan yang hanya membutuhkan evaluasi kondisi. Sementara kondisi terpenuhi, maka perulangan akan terus dilakukan
 
 >__Struktur Statement While-Do__
@@ -32,7 +32,7 @@ Merupakan bentuk perulangan yang hanya membutuhkan evaluasi kondisi. Sementara k
 >while(evaluasi kondisi)
 >		Statement;
 
-###Statement do-while
+### Statement do-while
 Merupakan bentuk perulangan kebalikan dari while-do. Jika kondisi belum terpenuhi, maka perulangan terus dilakukan
 >__Struktur Statement Do-While__
 >.
