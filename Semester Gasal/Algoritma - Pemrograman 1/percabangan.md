@@ -8,7 +8,7 @@ Didalam pemrograman kita harus dapat menentukan aksi apa yang harus dikerjakan o
 
 > Contoh dalam Flowchart
 >
-> ![Percabangan](./img/percabangan.png)
+> ![Percabangan](https://github.com/himasif/Library/raw/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/img/percabangan.png)
 
 ## Jenis Percabangan
 
@@ -19,7 +19,7 @@ __Contoh :__
 
 > Flowchart :
 >
-> ![Percabangan Bertingkat](./img/percabangan_bertingkat.png)
+> ![Percabangan Bertingkat](https://github.com/himasif/Library/raw/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/img/percabangan_bertingkat.png)
 
 __ JAVA __
 
@@ -40,7 +40,7 @@ __Contoh :__
 
 > Dalam Flowchart
 >
-> ![Percabangan Bersarang](./img/percabangan_bersarang.png)
+> ![Percabangan Bersarang](https://github.com/himasif/Library/raw/master/Semester%20Gasal/Algoritma%20-%20Pemrograman%201/img/percabangan_bersarang.png)
 
 __JAVA__
 
